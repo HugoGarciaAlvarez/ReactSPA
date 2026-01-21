@@ -16,6 +16,11 @@ Lanza el servidor de desarrollo
 ```bash
 npm run dev
 ```
+Para poder iniciar sesion las credenciales son:
+-Nombre: admin
+
+-Contraseña: admin
+
 ## 📂 Estructura y Funcionamiento (Qué hace cada parte)
 
 El código se ha organizado siguiendo una arquitectura profesional por carpetas:
