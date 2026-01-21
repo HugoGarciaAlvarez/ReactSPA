@@ -17,6 +17,7 @@ Lanza el servidor de desarrollo
 npm run dev
 ```
 Para poder iniciar sesion las credenciales son:
+
 -Nombre: admin
 
 -Contraseña: admin
